@@ -159,5 +159,5 @@ function main(){
   console.log(findRotation('amazon', 'azonma'));
   console.log(findRotation('amazon', 'azonam'));
 }
-
+ 
 main();
